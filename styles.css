@@ -31,15 +31,6 @@
 }
 
 #wrapper {
-  /* overflow-x: hidden; */
-  /* background-image: linear-gradient(
-    to right,
-    #5b5596,
-    #c2f5de,
-    #cbf7e4,
-    #d4f8ea,
-    #ddfaef
-  ); */
   background: rgb(204, 201, 201);
 }
 

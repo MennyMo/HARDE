@@ -5,6 +5,7 @@ let male = document.querySelector("#male");
 let female = document.querySelector("#female");
 let total = document.querySelector("#total");
 let getMale = document.querySelector("#get-male");
+let apiTotal = document.querySelector("#api-total");
 
 window.onload = async () => {
    await getPage();
@@ -30,6 +31,9 @@ async function fetchData() {
   user_data = await fetch("https://randomuser.me/api/?results=50");
   user_data = await user_data.json();
   user_data = user_data.results;
+
+  apiTotal.innerHTML = `<span>${user_data.length} </span>`
+
 
   // console.log(user_data);
 }
@@ -67,7 +71,10 @@ function renderPage() {
   }
   male.textContent = numberOfMale;
   female.textContent = numberOfFemale;
+
+  
 }
+
 
 toggleButton.onclick = function () {
   el.classList.toggle("toggled");
