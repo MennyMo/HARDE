@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T19:43:45.729Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.41" etag="lUZ4rUQv_vv9beWpLpRn" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T21:10:06.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="g9esS3SQLmUFy3iLwV2U" version="15.9.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1609" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1595" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,6 +87,33 @@
             <mxPoint x="-120" y="660" as="sourcePoint" />
             <mxPoint x="-20" y="560" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="rH0nxdDIXKya7q-SAc2e-1" value="1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="490" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rH0nxdDIXKya7q-SAc2e-2" value="2&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%221%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20y%3D%22490%22%20width%3D%2240%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%221%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20y%3D%22490%22%20width%3D%2240%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%221%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20y%3D%22490%22%20width%3D%2240%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="440" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rH0nxdDIXKya7q-SAc2e-3" value="4" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="500" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rH0nxdDIXKya7q-SAc2e-4" value="3" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="510" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rH0nxdDIXKya7q-SAc2e-5" value="5" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="585" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rH0nxdDIXKya7q-SAc2e-6" value="6" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="640" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rH0nxdDIXKya7q-SAc2e-8" value="&lt;font style=&quot;font-size: 14px&quot;&gt;1.A user can be a part of multiple businesses(a one to many relationship)&lt;br&gt;2. A user and business can chat with each other in real time and vice versa(a one to many relationship&lt;br&gt;)&lt;br&gt;A user can follow businesses&lt;br&gt;3. A chat can be to many businesses&lt;br&gt;4. A business can be affiliated with another business in two ways (branch, partner) (many to many relationship)&lt;br&gt;5.A user can be a part of multiple businesses(a one to many relationship)&lt;br&gt;A business can upload posts(products or deals) with or without images.&lt;br&gt;6. A business can make several posts and feeds, with or without images&lt;br&gt;7. A user can follow multiple businesses(a one to many relationship)&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="120" width="700" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="rH0nxdDIXKya7q-SAc2e-9" value="7" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="700" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rH0nxdDIXKya7q-SAc2e-10" value="&lt;b&gt;Schema description&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="15" y="70" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
